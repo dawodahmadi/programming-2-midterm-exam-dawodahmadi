@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "createPascalTriangleTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests Prog2MidtermTests.createPascalTriangleTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "createPascalTriangleTest2",
+      "setup": "",
+      "run": "gradle test --tests Prog2MidtermTests.createPascalTriangleTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "createPascalTriangleTest3",
+      "setup": "",
+      "run": "gradle test --tests Prog2MidtermTests.createPascalTriangleTest3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    },
+    {
+      "name": "createPascalTriangleTest4",
+      "setup": "",
+      "run": "gradle test --tests Prog2MidtermTests.createPascalTriangleTest4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 25
+    }
+  ]
+}
